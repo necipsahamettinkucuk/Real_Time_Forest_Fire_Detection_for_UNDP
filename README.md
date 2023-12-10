@@ -91,7 +91,7 @@ UAV Image
 Project Showcase
 Here are some snapshots showcasing our real-time forest fire detection system in action:
 
-Snapshot 1
-Snapshot 2
+
+[Proje Demo](https://youtu.be/PsGqouARdoc)
 
 
