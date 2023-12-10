@@ -92,6 +92,5 @@ Project Showcase
 Here are some snapshots showcasing our real-time forest fire detection system in action:
 
 
-[Proje Demo](https://youtu.be/PsGqouARdoc)
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PsGqouARdoc)](https://www.youtube.com/watch?v=PsGqouARdoc)
 
