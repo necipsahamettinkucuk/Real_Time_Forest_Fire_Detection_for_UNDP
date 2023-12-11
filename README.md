@@ -93,3 +93,10 @@ Here are some snapshots showcasing our real-time forest fire detection system in
 
 
 https://github.com/necipsahamettinkucuk/Real_Time_Forest_Fire_Detection_for_UNDP/assets/121046682/5cf0aad8-076c-49f4-acb6-4b7ef0321b32
+
+
+
+
+https://github.com/necipsahamettinkucuk/Real_Time_Forest_Fire_Detection_for_UNDP/assets/121046682/a5d6d46f-c8e2-4334-a7dc-8018c7ec2bd8
+
+
